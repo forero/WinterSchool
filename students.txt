@@ -1,0 +1,6 @@
+2 UdeA
+2 UNAL
+2 Uniandes 
+2 UIS
+2 Univalle
+1-4 Otras
