@@ -41,7 +41,7 @@ universidad y entre paréntesis el nombre del profesor de contacto.
   Astronómico) 
 - UPTC: 2 estudiantes (Nelson Vera)
 - UIS: 2 estudiantes (Jerson Reina)
-- Universidad de Pasto: 2 estudiantes (James Perenguez)
+- Universidad de Narino: 2 estudiantes (James Perenguez)
 - Otra Universidad: 1 estudiante (Jaime Forero: j.e.forero.romero en
   gmail) 
 
