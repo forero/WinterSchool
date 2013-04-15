@@ -45,3 +45,4 @@ universidad y entre paréntesis el nombre del profesor de contacto.
 - Otra Universidad: 1 estudiante (Jaime Forero: j.e.forero.romero en
   gmail) 
 
+FECHA LIMITE PARA BUSCAR AL PROFESOR DE CONTACTO: Jueves 18 de Abril del 2013.
