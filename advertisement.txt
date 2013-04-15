@@ -3,7 +3,9 @@ los Andes está preparando en colaboración con otros profesores del
 país una propuesta para hacer una escuela en astronomía extragaláctica
 a realizarse en Alemania en Diciembre del 2013. 
 
-Esta escuela estará patrocinada por el servicio de intercambio académico alemán (DAAD). Se visitaran diferentes institutos y se harán mini-proyectos en instrumentación, observación y teoría-simulación.
+Esta escuela estará patrocinada por el servicio de intercambio
+académico alemán (DAAD). Se visitaran diferentes institutos y se harán
+mini-proyectos en instrumentación, observación y teoría-simulación.  
 Para hacer esta escuela realidad es necesario enviar la propuesta al
 DAAD antes de finales de Abril. Solamente en caso de ser aprobada se
 podrá hacer la escuela. Esta propuesta debe incluir la lista de
@@ -24,7 +26,8 @@ https://github.com/forero/WinterSchool/blob/master/schedule.txt
  Los estudiantes que participen deben:
 
 - Hablar inglés.
-- Estar en pregrado, idealmente entre 4 y 7 semestre de la carrera al momento de hacer el viaje.
+- Estar en pregrado, idealmente entre 4 y 7 semestre de la carrera al
+  momento de hacer el viaje. 
 - Costear por su cuenta los tiquetes internacionales y gastos de visa.
 - Estar recomendados por un profesor encargado en cada Universidad.
 
