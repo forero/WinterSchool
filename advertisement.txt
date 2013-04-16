@@ -37,8 +37,7 @@ Todavía estamos buscando estudiantes en algunas Universidades. A
 continuación el número de estudiantes que se busca por cada
 universidad y entre paréntesis el nombre del profesor de contacto. 
 
-- Universidad Nacional: 2 estudiantes (Giovanni Pinzon, Observatorio
-  Astronómico) 
+- Universidad Nacional: 2 estudiantes (Giovanni Pinzon, Rigoberto Casas) 
 - UPTC: 2 estudiantes (Nelson Vera)
 - UIS: 2 estudiantes (Jerson Reina)
 - Universidad de Narino: 2 estudiantes (James Perenguez)
